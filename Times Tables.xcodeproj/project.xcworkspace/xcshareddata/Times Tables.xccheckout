@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11321219-311D-4004-B3F9-1FC18FB2C612</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Times Tables</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E083C000E588D23F3AEAD5C80BB4FEDA7C5378BE</key>
+		<string>https://github.com/chadduffey/sliderIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Times Tables.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E083C000E588D23F3AEAD5C80BB4FEDA7C5378BE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chadduffey/sliderIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E083C000E588D23F3AEAD5C80BB4FEDA7C5378BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E083C000E588D23F3AEAD5C80BB4FEDA7C5378BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Times%20Tables</string>
+		</dict>
+	</array>
+</dict>
+</plist>
